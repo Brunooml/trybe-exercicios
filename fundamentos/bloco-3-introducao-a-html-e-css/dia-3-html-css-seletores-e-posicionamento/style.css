@@ -1,0 +1,14 @@
+.texto-centralizado{
+    text-align: center;
+}
+
+li:hover {
+    background-color: grey;
+}
+li:active {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li{
+    list-style: none;
+}
