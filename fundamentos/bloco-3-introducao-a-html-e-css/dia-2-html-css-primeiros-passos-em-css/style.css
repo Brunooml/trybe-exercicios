@@ -1,0 +1,25 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+ul{
+    background-color: orange;
+    text-decoration: underline;
+}
+
+.fundo{
+    background-color: grey;
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+    font-style:oblique;
+    text-align: center;
+}
+
+body{
+    font-size: 16px;
+}
